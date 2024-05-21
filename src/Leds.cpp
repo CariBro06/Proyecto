@@ -15,9 +15,6 @@ void loop(){
   }
 
   Serial.print("Hola Mundo!");
-  Serial.print("Hola Mundo!");
-  Serial.print("Hola Mundo!");
-  Serial.print("Hola Mundo!");
-  Serial.print("Hola Mundo!");
+  
   
 }
