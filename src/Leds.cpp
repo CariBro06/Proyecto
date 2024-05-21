@@ -15,6 +15,6 @@ void loop(){
   }
 
   Serial.print("Hola Mundo!");
-  
+  Serial.print("Aguante Natacha!");
   
 }
