@@ -13,8 +13,4 @@ void loop(){
   tiraled.setPixelColor(i,255,255,0);//El máximo es 255 de intensidad
   tiraled.show();
   }
-
-  Serial.print("Hola Mundo!");
-  Serial.print("Aguante Natacha!");
-  
 }
